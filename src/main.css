@@ -58,3 +58,19 @@ footer {
     width: 100%;
     padding: 0rem 0;
   }
+  .school{
+    text-align: center;
+    margin: auto;
+    color: #000;
+    font-size: 28px;
+    
+  }
+  th,td{
+    border-style:none;
+  }
+  h3{
+    text-align: center;
+  }
+  p{
+    font-size: 18px;
+  }
