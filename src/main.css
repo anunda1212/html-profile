@@ -50,7 +50,9 @@ p{
     text-align: left;
 }
 footer {
+    
     text-align: center;
+    margin: auto;
     position: fixed;
     bottom: 0;
     width: 100%;
