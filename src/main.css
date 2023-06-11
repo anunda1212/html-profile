@@ -28,7 +28,14 @@ h1{
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding: 10px;
+    transition: .3s;
     }
+img:hover{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
 p{
     text-align: center;
     font-size: 26px;
@@ -40,6 +47,7 @@ p{
     width: 500px;
     margin: auto;
     text-align: left;
+    
 }
 .con{
     margin-top: 50px;
@@ -55,23 +63,23 @@ footer {
     width: 100%;
     padding: 0rem 0;
   }
-  .school{
+.school{
     text-align: center;
     margin: auto;
     color: #000;
     font-size: 28px;
     
   }
-  th,td{
+th,td{
     border-style:none;
   }
-  h3{
+h3{
     text-align: center;
   }
-  p{
+p{
     font-size: 18px;
   }
-  .pig{
+.pig{
 
     color: #ffffff;
     text-align: center;
